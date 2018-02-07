@@ -57,8 +57,6 @@ $("#submit-train").on("click", function () {
 	});
 
 
-	// after submit set the value of each input field to an empty string
-
 	$("#name").val(" ");
 	$("#destination").val(" ");
 	$("#first-train").val(" ");
